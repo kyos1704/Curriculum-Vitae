@@ -20,7 +20,7 @@
 ### その他
 触ったことのある開発関連ツール
 - Git,Github,Gitlab
-- Slack,Discord
+- Slack,Discord,Teams
 - Azure/AWS
 
 ## 言語

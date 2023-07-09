@@ -69,6 +69,7 @@ Hololensを利用した業務改善の提案や、VR関連デバイスの機能�
 - C#
 - Python
 - C++
+- Swift,Objective-C
 
 ### フレームワーク
 - Unity
